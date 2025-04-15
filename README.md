@@ -2,6 +2,8 @@
 
 This repo is combined with the paper "View Planning for High-Fidelity Reconstruction of Dynamic Actor using Flying Camera".
 
+**Please check out our [supplementary video](https://youtu.be/bzMjb8sJFgs).**
+
 ## Installation
 Install in the virtual environments, and the API for the AirSim with `pip`.
 
